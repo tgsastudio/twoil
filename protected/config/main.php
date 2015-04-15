@@ -18,7 +18,7 @@ return array(
 		'application.components.*',
 	),
 
-	'defaultController'=>'post',
+	'defaultController'=>'site',
 
 	// application components
 	'components'=>array(
